@@ -3,3 +3,5 @@ And user select option the hotel as "Hotel Sunshine"
 And user select option the roomtype as "Standard"
 And user select option the noofroom as "2 - Two"
 And user select option the checkin date as "02/07/2019"
+And user select the option checkoutdate as "03/07/2019"
+And user Enter the seach button
