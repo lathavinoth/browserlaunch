@@ -1,0 +1,4 @@
+Given user select option the location as "Melbourne" 
+And user select option the hotel as "Hotel Sunshine"
+And user select option the roomtype as "Standard"
+And user select option the noofroom as "2 - Two"
