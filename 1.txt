@@ -4,4 +4,6 @@ And user select option the roomtype as "Standard"
 And user select option the noofroom as "2 - Two"
 And user select option the checkin date as "02/07/2019"
 And user select the option checkoutdate as "03/07/2019"
+And user enter the no of adult "1 - One"
+And user enter th no of children "1 - One"
 And user Enter the seach button
